@@ -1,0 +1,234 @@
+=== Bem-vindo ao Mastermind ===
+Tente adivinhar o código secreto de 4 cores!
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+R G B Y
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 1
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+G G B Y 
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 2
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+R R R R
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 3
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+RRRR -> 0 0
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+B Y P R
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 4
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+RRRR -> 0 0
+BYPR -> 1 1
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+P P P P
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 5
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+RRRR -> 0 0
+BYPR -> 1 1
+PPPP -> 1 0
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+G G B Y
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 6
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+RRRR -> 0 0
+BYPR -> 1 1
+PPPP -> 1 0
+GGBY -> 2 1
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+G B R Y
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 7
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+RRRR -> 0 0
+BYPR -> 1 1
+PPPP -> 1 0
+GGBY -> 2 1
+GBRY -> 1 1
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+G G P R
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 8
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+RRRR -> 0 0
+BYPR -> 1 1
+PPPP -> 1 0
+GGBY -> 2 1
+GBRY -> 1 1
+GGPR -> 3 0
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+G G P R
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 9
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+RRRR -> 0 0
+BYPR -> 1 1
+PPPP -> 1 0
+GGBY -> 2 1
+GBRY -> 1 1
+GGPR -> 3 0
+GGPR -> 3 0
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+G G P R
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 10
+Código secreto: ? ? ? ? 
+RGBY -> 1 1
+GGBY -> 2 1
+RRRR -> 0 0
+BYPR -> 1 1
+PPPP -> 1 0
+GGBY -> 2 1
+GBRY -> 1 1
+GGPR -> 3 0
+GGPR -> 3 0
+GGPR -> 3 0
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 0
+Derrotas: 0
+=================
+===========================
+
+Insira sua tentativa (4 cores, separadas por espaço, R G B Y O P):
+G G P B
+
+
+===== ESTADO DO JOGO =====
+Tentativas: 11
+Código secreto: GGPB
+GGBY -> 2 1
+RRRR -> 0 0
+BYPR -> 1 1
+PPPP -> 1 0
+GGBY -> 2 1
+GBRY -> 1 1
+GGPR -> 3 0
+GGPR -> 3 0
+GGPR -> 3 0
+GGPB -> 4 0
+
+===== SCORE =====
+Jogador: Jogador
+Vitórias: 1
+Derrotas: 0
+=================
+===========================
+
+Parabéns! Você descobriu o código secreto!
+Vitórias: 1 | Derrotas: 0
